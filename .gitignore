@@ -1,0 +1,12 @@
+*.ko
+*.mod.c
+*.o
+*.orig
+.*.cmd
+.*.swp
+
+.tmp_versions
+.ycm_extra_conf.py
+
+Module.symvers
+modules.order
